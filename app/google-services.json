@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96145153537",
+    "project_id": "dozoexample",
+    "storage_bucket": "dozoexample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96145153537:android:c1c50966a0c2bf3968aa00",
+        "android_client_info": {
+          "package_name": "com.example.dozo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu-TKJVyxhZ9t15yapE7dSAiNXoVGHAU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
